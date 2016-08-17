@@ -1,0 +1,19 @@
+package com.cardinalfuse.yahtzee;
+
+import java.util.List;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+public class YahtzeeGame {
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+	
+	public static int getScore(CategoryType type, List<DiceValue> roll) {
+		int score = 0;
+		
+		return score;
+	}
+}

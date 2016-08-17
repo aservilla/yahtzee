@@ -1,0 +1,10 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+public class YahtzeeGame {
+
+	
+	public static int getScore() {
+		
+		
+	}
+}

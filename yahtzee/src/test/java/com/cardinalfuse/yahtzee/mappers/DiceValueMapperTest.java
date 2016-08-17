@@ -1,0 +1,21 @@
+package com.cardinalfuse.yahtzee.mappers;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class DiceValueMapperTest extends TestCase {
+
+	@Test
+	public void test() {
+		assertEquals(DiceValue.ONE, DiceValueMapper.getDiceValue(1));
+		assertEquals(DiceValue.TWO, DiceValueMapper.getDiceValue(2));
+		assertEquals(DiceValue.THREE, DiceValueMapper.getDiceValue(3));
+		assertEquals(DiceValue.FOUR, DiceValueMapper.getDiceValue(4));
+		assertEquals(DiceValue.FIVE, DiceValueMapper.getDiceValue(5));
+		assertEquals(DiceValue.SIX, DiceValueMapper.getDiceValue(6));
+	}
+	
+}	

@@ -1,0 +1,75 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class CategoryFactoryTest extends TestCase {
+
+	@Test
+	public void testOnes() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		Category category = CategoryFactory.createCategory(CategoryType.ONES, roll);
+		boolean actual = (category instanceof CategorySingles); 
+		assertEquals(true, actual);
+	}
+	@Test
+	public void testTwos() {
+		
+	}
+	@Test
+	public void testThrees() {
+		
+	}
+	@Test
+	public void testFours() {
+		
+	}
+	@Test
+	public void testFives() {
+		
+	}
+	@Test
+	public void testSixes() {
+		
+	}
+	@Test
+	public void testPair() {
+		
+	}
+	@Test
+	public void testTwoPairs() {
+		
+	}
+	@Test
+	public void testThreeOfAKind() {
+		
+	}
+	@Test
+	public void testSmallStraight() {
+		
+	}
+	@Test
+	public void testLargeStraight() {
+		
+	}
+	@Test
+	public void testFullHouse() {
+		
+	}
+	@Test
+	public void testYahtzee() {
+		
+	}
+	@Test
+	public void testChance() {
+		
+	}
+	
+}

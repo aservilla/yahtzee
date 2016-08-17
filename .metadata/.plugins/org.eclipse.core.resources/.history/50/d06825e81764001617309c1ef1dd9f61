@@ -1,0 +1,20 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+public class CategorySmallStraight extends Category {
+
+	public int calculateScore() {
+		int score = 0;
+		if (isStraight()) {
+			score = 15;
+		}
+		return score;
+	}
+	
+	private boolean isStraight() {
+		boolean valid = false;
+		
+		
+		return valid;
+	}
+
+}

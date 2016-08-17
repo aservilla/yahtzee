@@ -1,0 +1,10 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+public class CategoryFullHouse implements Category {
+
+	public int calculateScore() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

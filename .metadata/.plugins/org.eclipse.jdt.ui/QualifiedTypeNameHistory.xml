@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategorySingles"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.enums.DiceValue"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.enums.CategoryType"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryPair"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryTwoPair"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryThreeOfAKind"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryFourOfAKind"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategorySmallStraight"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryLargeStraight"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryFullHouse"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryYahtzee"/>
+<fullyQualifiedTypeName name="com.cardinalfuse.yahtzee.dataobjects.CategoryChance"/>
+</qualifiedTypeNameHistroy>

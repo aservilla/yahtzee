@@ -1,0 +1,28 @@
+package com.cardinalfuse.yahtzee;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.cardinalfuse.yahtzee.dataobjects.Category;
+import com.cardinalfuse.yahtzee.dataobjects.CategoryFactory;
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+import com.cardinalfuse.yahtzee.mappers.CategoryMapper;
+
+public class YahtzeeGame {
+    public static void main( String[] args )
+    {
+    	if (args.length < 6) {
+    		System.out.println("Invalid number of arguments");
+    	} else {
+    		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+    		int type = new Integer(args[0]);
+    		CategoryType catType = CategoryMapper.getCategory(type);
+    		
+    		Category category = CategoryFactory.createCategory(catType, roll);
+    		int score = category.calculateScore();
+    		
+    		System.out.println("The score is: " + score + " points.");
+    	}
+    }
+}

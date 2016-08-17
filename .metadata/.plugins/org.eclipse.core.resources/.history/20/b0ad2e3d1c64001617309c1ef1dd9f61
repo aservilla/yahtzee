@@ -1,0 +1,7 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import junit.framework.TestCase;
+
+public class CategoryTest extends TestCase {
+
+}

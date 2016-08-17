@@ -1,0 +1,17 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+public class CategorySingles implements Category {
+	private DiceValue singleType;
+	
+	public CategorySingles(DiceValue singleType) {
+		this.singleType = singleType;
+	}
+	
+	public int calculateScore() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

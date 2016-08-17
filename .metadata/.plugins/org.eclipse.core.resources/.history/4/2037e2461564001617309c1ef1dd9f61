@@ -1,0 +1,13 @@
+package com.cardinalfuse.yahtzee.mappers;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+
+public class CategoryMapper {
+
+	public static CategoryType getCategory(String type) {
+		CategoryType catType = null;
+		
+		
+		return catType;
+	}
+}

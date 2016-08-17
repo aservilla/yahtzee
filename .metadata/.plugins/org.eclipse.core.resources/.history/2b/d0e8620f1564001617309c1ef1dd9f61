@@ -1,0 +1,5 @@
+package com.cardinalfuse.yahtzee.mappers;
+
+public class CategoryMapper {
+
+}

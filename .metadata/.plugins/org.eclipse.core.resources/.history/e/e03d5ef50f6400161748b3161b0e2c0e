@@ -1,0 +1,30 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+public class CategoryPair extends Category {
+	private DiceValue pairType;
+
+	public CategoryPair(DiceValue pairType) {
+		this.pairType = pairType;
+	}
+	
+	public DiceValue getPairType() {
+		return pairType;
+	}
+
+	public void setPairType(DiceValue pairType) {
+		this.pairType = pairType;
+	}
+
+	public int calculateScore() {
+		int score = 0;
+		for (DiceValue dice : getRoll()) {
+			if (pairType.equals(dice)) {
+				score = score + dice.getValue();
+			}
+		}
+		return score;
+	}
+
+}

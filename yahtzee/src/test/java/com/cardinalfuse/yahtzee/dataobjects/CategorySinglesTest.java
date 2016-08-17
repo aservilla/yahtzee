@@ -1,0 +1,84 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class CategorySinglesTest extends TestCase {
+
+	@Test
+	public void testScore1() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.TWO);
+		roll.add(DiceValue.THREE);
+		roll.add(DiceValue.FOUR);
+		roll.add(DiceValue.TWO);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		assertEquals(1, category.calculateScore());
+	}
+	
+	@Test
+	public void testScore2() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.TWO);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.FOUR);
+		roll.add(DiceValue.TWO);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		assertEquals(2, category.calculateScore());
+	}
+
+	@Test
+	public void testScore3() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.TWO);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.FOUR);
+		roll.add(DiceValue.ONE);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		assertEquals(3, category.calculateScore());
+	}
+
+	@Test
+	public void testScore4() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.TWO);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		assertEquals(4, category.calculateScore());
+	}
+
+	@Test
+	public void testScore5() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		roll.add(DiceValue.ONE);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		assertEquals(5, category.calculateScore());
+	}
+	
+}

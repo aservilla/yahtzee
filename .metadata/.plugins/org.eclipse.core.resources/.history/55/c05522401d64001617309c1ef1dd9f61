@@ -1,0 +1,16 @@
+package com.cardinalfuse.yahtzee.mappers;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class DiceValueMapperTest extends TestCase {
+
+	@Test
+	public void test() {
+		DiceValue.THREE = new DiceValueMapper.getDiceValue(3);
+	}
+	
+}

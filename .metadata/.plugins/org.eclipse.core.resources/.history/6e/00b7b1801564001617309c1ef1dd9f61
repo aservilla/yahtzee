@@ -1,0 +1,50 @@
+package com.cardinalfuse.yahtzee.mappers;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+
+public class CategoryMapper {
+
+	public static CategoryType getCategory(int type) {
+		CategoryType catType = null;
+		switch(type) {
+		case 1:
+			catType = CategoryType.ONES;
+			break;
+		case 2:
+			catType = CategoryType.ONES;
+			break;
+		case 3:
+			catType = CategoryType.ONES;
+			break;
+		case 4:
+			catType = CategoryType.ONES;
+			break;
+		case 5:
+			catType = CategoryType.ONES;
+			break;
+		case 6:
+			catType = CategoryType.ONES;
+			break;
+		case 7:
+			catType = CategoryType.ONES;
+			break;
+		case 8:
+			catType = CategoryType.ONES;
+			break;
+		case 9:
+			catType = CategoryType.ONES;
+			break;
+		case 10:
+			catType = CategoryType.ONES;
+			break;
+		case 11:
+			catType = CategoryType.ONES;
+			break;
+		case 12:
+			catType = CategoryType.ONES;
+			break;
+		}
+		
+		return catType;
+	}
+}

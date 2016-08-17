@@ -1,0 +1,823 @@
+2016-08-16 19:00:02,359 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\pom.xml
+2016-08-16 19:00:03,178 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cardinalfuse:yahtzee:0.0.1-SNAPSHOT @ C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\pom.xml.
+2016-08-16 19:00:03,927 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yahtzee/src/main/java
+2016-08-16 19:00:03,936 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yahtzee/src/test/java
+2016-08-16 19:00:04,657 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-08-16 19:00:05,393 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:05,393 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:00:05,395 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:05,395 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:00:38,466 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:38,466 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:00:38,467 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:38,467 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:00:47,857 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:47,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:00:47,860 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:47,863 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:00:48,886 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:48,886 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:00:48,888 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:00:48,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:01:10,552 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:01:10,556 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:01:10,567 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:01:10,571 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:02:33,128 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:02:33,128 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:02:33,129 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:02:33,133 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:02:59,001 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:02:59,004 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:02:59,009 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:02:59,012 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:03:08,856 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:03:08,857 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:03:08,859 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:03:08,862 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:05:26,212 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:26,215 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:05:26,219 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:26,223 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:05:51,075 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:51,075 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:05:51,076 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:51,079 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:05:56,687 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:56,692 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:05:56,698 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:05:56,704 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:06:00,256 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:00,256 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:06:00,258 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:00,263 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:06:19,529 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:19,532 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:06:19,536 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:19,539 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:06:45,634 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:45,635 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:06:45,636 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:06:45,642 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:07:21,102 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:07:21,105 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:07:21,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:07:21,112 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:07:39,965 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:07:39,965 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:07:39,966 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:07:39,969 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:08:15,435 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:08:15,438 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:08:15,441 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:08:15,444 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:10:28,793 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:10:28,794 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:10:28,795 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:10:28,802 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:10:35,706 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:10:35,709 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:10:35,712 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:10:35,715 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:11:52,280 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:11:52,280 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:11:52,281 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:11:52,284 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:12:26,936 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:12:26,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:12:26,942 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:12:26,945 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:12:53,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:12:53,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:12:53,405 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:12:53,408 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:13:08,845 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:13:08,849 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:13:08,852 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:13:08,855 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:13:20,282 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:13:20,282 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:13:20,283 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:13:20,286 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:11,834 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:11,840 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:11,845 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:11,848 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:20,301 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:20,302 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:20,302 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:20,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:28,931 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:28,937 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:28,942 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:28,946 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:32,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:32,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:32,558 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:32,562 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:48,510 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:48,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:48,518 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:48,522 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:14:52,155 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:52,156 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:14:52,157 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:14:52,163 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:19:37,178 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:19:37,184 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:19:37,191 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:19:37,195 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:19:59,696 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:19:59,696 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:19:59,697 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:19:59,701 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:22:26,701 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:22:26,706 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:22:26,712 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:22:26,717 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:22:46,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:22:46,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:22:46,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:22:46,384 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:23:15,395 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:15,400 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:23:15,404 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:15,407 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:23:26,425 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:26,425 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:23:26,426 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:26,429 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:23:40,383 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:40,386 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:23:40,389 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:40,392 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:23:54,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:54,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:23:54,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:23:54,518 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:24:17,042 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:17,045 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:24:17,049 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:17,052 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:24:31,639 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:31,639 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:24:31,640 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:31,644 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:24:46,676 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:46,680 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:24:46,683 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:46,686 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:24:58,364 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:58,364 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:24:58,365 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:24:58,368 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:25:20,954 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:25:20,959 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:25:20,966 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:25:20,969 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:25:57,775 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:25:57,775 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:25:57,776 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:25:57,778 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:26:09,820 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:09,826 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:26:09,832 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:09,835 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:26:37,947 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:37,947 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:26:37,948 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:37,951 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:26:46,938 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:46,944 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:26:46,947 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:46,949 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:26:55,511 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:55,511 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:26:55,512 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:55,518 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:26:59,523 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:59,526 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:26:59,530 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:26:59,533 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:02,890 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:02,890 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:02,890 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:02,894 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:07,028 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:07,033 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:07,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:07,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:10,525 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:10,526 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:10,527 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:10,532 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:16,868 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:16,874 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:16,880 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:16,885 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:22,619 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:22,619 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:22,620 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:22,626 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:27,560 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:27,563 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:27,567 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:27,570 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:27:51,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:51,701 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:27:51,701 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:27:51,707 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:29:41,598 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:29:41,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:29:41,607 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:29:41,610 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:30:45,860 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:30:45,860 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:30:45,861 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:30:45,866 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:30:59,045 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:30:59,048 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:30:59,052 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:30:59,055 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:31:42,039 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:31:42,039 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:31:42,040 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:31:42,044 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:32:18,808 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:32:18,811 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:32:18,814 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:32:18,816 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:33:06,245 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:33:06,245 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:33:06,246 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:33:06,249 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:33:44,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:33:44,494 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:33:44,498 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:33:44,501 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:34:20,402 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:34:20,402 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:34:20,403 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:34:20,406 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:34:30,912 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:34:30,915 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:34:30,918 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:34:30,921 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:05,132 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:05,132 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:05,133 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:05,136 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:16,612 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:16,617 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:16,621 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:16,624 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:24,906 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:24,906 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:24,907 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:24,910 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:29,999 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:30,002 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:30,005 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:30,008 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:36,500 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:36,501 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:36,502 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:36,506 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:41,076 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:41,079 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:41,083 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:41,087 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:45,746 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:45,746 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:45,747 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:45,750 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:49,866 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:49,870 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:49,874 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:49,877 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:54,034 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:54,034 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:54,034 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:54,038 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:35:57,889 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:57,894 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:35:57,898 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:35:57,901 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:36:01,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:36:01,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:36:01,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:36:01,703 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:36:14,995 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:36:14,999 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:36:15,002 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:36:15,006 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:37:13,543 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:13,543 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:37:13,544 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:13,553 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:37:33,380 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:33,384 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:37:33,388 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:33,390 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:37:49,978 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:49,978 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:37:49,979 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:49,982 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:37:53,193 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:53,198 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:37:53,204 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:37:53,209 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:39:28,952 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:39:28,952 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:39:28,953 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:39:28,955 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:39:54,694 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:39:54,698 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:39:54,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:39:54,706 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:41:33,558 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:41:33,558 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:41:33,559 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:41:33,565 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:44:58,000 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:44:58,006 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:44:58,013 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:44:58,016 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:48:19,313 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:48:19,313 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:48:19,315 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:48:19,320 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:50:53,365 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:50:53,368 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:50:53,372 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:50:53,375 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:52:03,668 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:52:03,668 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:52:03,669 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:52:03,675 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 19:54:32,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:54:32,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 19:54:32,946 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 19:54:32,951 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:01:29,058 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:01:29,086 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:01:29,087 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:01:29,088 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:01:32,850 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:01:32,851 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:01:32,852 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:01:32,852 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:02:10,511 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:02:10,511 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:02:10,512 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:02:10,512 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:02:58,550 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:02:58,550 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:02:58,551 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:02:58,551 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:05:20,980 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:05:20,980 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:05:20,981 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:05:20,981 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:05:25,625 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:05:25,628 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:05:25,631 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:05:25,632 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:06:02,549 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:02,549 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:06:02,550 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:02,550 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:06:18,450 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:18,453 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:06:18,458 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:18,458 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:06:28,644 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:28,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:06:28,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:28,646 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:06:52,161 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:52,165 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:06:52,168 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:06:52,169 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:08:07,125 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:08:07,125 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:08:07,127 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:08:07,127 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:10:53,586 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:10:53,589 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:10:53,592 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:10:53,592 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:17:18,677 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:17:18,677 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:17:18,678 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:17:18,678 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:18:08,700 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:18:08,703 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:18:08,707 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:18:08,707 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:28:00,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:28:00,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:28:00,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:28:00,782 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:34:25,840 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:34:25,871 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:34:25,873 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:34:25,873 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:39:21,673 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:39:21,675 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:39:21,677 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:39:21,678 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:39:57,309 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:39:57,310 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:39:57,311 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:39:57,311 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:40:38,909 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:40:38,909 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:40:38,910 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:40:38,910 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:40:44,767 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:40:44,768 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:40:44,771 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:40:44,771 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:41:05,804 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:05,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:41:05,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:05,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:41:35,383 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:35,383 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:41:35,385 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:35,385 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:41:47,649 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2016-08-16 20:41:47,750 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2016-08-16 20:41:48,075 [Worker-9] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2016-08-16 20:41:48,225 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:48,228 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:41:48,232 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:41:48,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:42:51,954 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:42:51,957 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:42:51,961 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:42:51,964 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:43:23,022 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:43:23,028 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:43:23,035 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:43:23,038 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:44:04,073 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:44:04,078 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:44:04,085 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:44:04,091 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:51:52,661 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:51:52,667 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:51:52,674 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:51:52,677 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:51:59,790 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:51:59,793 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:51:59,796 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:51:59,799 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:52:35,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:52:35,603 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:52:35,610 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:52:35,615 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:52:46,435 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:52:46,438 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:52:46,442 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:52:46,445 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:53:49,836 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:53:49,841 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:53:49,850 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:53:49,855 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:55:22,964 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:55:22,970 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:55:22,976 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:55:22,978 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:56:59,935 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:56:59,940 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:56:59,947 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:56:59,952 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:57:43,428 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:57:43,434 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:57:43,438 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:57:43,441 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:58:15,730 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:58:15,736 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:58:15,742 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:58:15,750 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:58:26,997 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:58:27,001 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:58:27,005 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:58:27,008 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 20:59:50,248 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:59:50,252 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 20:59:50,256 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 20:59:50,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:01:47,843 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:01:47,847 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:01:47,850 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:01:47,853 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:05:23,472 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:23,478 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:05:23,484 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:23,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:05:41,576 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:41,579 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:05:41,583 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:41,586 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:05:57,252 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:57,258 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:05:57,264 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:05:57,267 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:06:30,655 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:06:30,658 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:06:30,662 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:06:30,665 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:07:46,134 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:07:46,138 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:07:46,142 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:07:46,145 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:08:27,425 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:08:27,431 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:08:27,437 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:08:27,442 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:09:29,074 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:09:29,080 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:09:29,086 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:09:29,092 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:09:47,913 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:09:47,917 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:09:47,921 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:09:47,925 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:10:04,694 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:10:04,700 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:10:04,706 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:10:04,709 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:12:20,644 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:12:20,647 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:12:20,650 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:12:20,652 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:14:12,492 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:14:12,498 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:14:12,504 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:14:12,507 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:14:29,130 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:14:29,133 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:14:29,138 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:14:29,142 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:15:40,557 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:15:40,559 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:15:40,563 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:15:40,565 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:15:47,337 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:15:47,343 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:15:47,350 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:15:47,355 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:16:07,788 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:07,795 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:16:07,801 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:07,804 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:16:38,276 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:38,279 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:16:38,282 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:38,285 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:16:56,874 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:56,877 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:16:56,880 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:16:56,883 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:17:11,435 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:17:11,440 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:17:11,447 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:17:11,452 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:17:27,761 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:17:27,766 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:17:27,773 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:17:27,777 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:19:52,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:19:52,120 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:19:52,127 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:19:52,132 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:23:21,561 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:23:21,565 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:23:21,568 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:23:21,571 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:23:41,986 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:23:41,991 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:23:41,996 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:23:41,999 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:24:08,460 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:24:08,464 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:24:08,468 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:24:08,471 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:24:31,756 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:24:31,761 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:24:31,766 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:24:31,768 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:26:06,431 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:06,437 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:26:06,443 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:06,446 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:26:25,060 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:25,062 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:26:25,065 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:25,068 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:26:47,157 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:47,163 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:26:47,169 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:26:47,175 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:27:50,053 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:27:50,059 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:27:50,064 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:27:50,067 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:27:57,116 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:27:57,122 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:27:57,128 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:27:57,134 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:28:56,638 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:28:56,643 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:28:56,649 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:28:56,654 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:29:16,829 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:29:16,832 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:29:16,836 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:29:16,838 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:30:07,401 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:30:07,405 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:30:07,408 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:30:07,411 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:32:45,682 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:45,686 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:32:45,690 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:45,692 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:32:51,577 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:51,582 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:32:51,588 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:51,593 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:32:53,660 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:53,663 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:32:53,666 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:32:53,669 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:34:02,396 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:34:02,400 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:34:02,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:34:02,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:34:41,896 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:34:41,901 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:34:41,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:34:41,912 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:37:07,087 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:37:07,093 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:37:07,099 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:37:07,104 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:38:06,934 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:38:06,939 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:38:06,945 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:38:06,951 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:39:02,279 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:02,284 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:39:02,290 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:02,296 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:39:11,645 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:11,651 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:39:11,658 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:11,663 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:39:50,186 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:50,189 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:39:50,192 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:39:50,194 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:40:32,936 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:40:32,939 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:40:32,943 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:40:32,946 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:41:05,394 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:41:05,397 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:41:05,400 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:41:05,402 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:41:36,695 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:41:36,698 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:41:41,626 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:41:41,631 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:41:41,636 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:41:41,639 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:42:36,447 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:42:36,469 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:42:36,470 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:42:36,473 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:42:46,106 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:42:46,109 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:42:48,106 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:42:48,109 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:42:48,113 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:42:48,116 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:44:20,552 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:20,552 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:44:20,556 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:20,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:44:32,527 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:32,530 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:44:32,533 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:32,536 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:44:38,497 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:44:38,500 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:44:46,645 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:46,650 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:44:46,656 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:44:46,661 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:45:13,153 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:45:13,153 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:45:13,154 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:45:13,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:45:17,898 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:45:17,901 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:45:20,901 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:45:20,905 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:45:20,909 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:45:20,913 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:47:27,979 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:47:27,985 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:47:27,991 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:47:27,996 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:47:32,248 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:47:32,251 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:47:34,909 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:47:34,915 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:47:34,920 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:47:34,925 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:48:54,520 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cardinalfuse:yahtzee:0.0.1-SNAPSHOT @ C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\pom.xml.
+2016-08-16 21:48:54,889 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:48:54,890 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:48:54,893 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:48:54,896 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:49:02,323 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:49:02,323 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:49:06,926 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:49:06,929 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:49:06,933 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:49:06,933 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:49:53,730 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:49:53,730 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:49:53,731 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:49:53,731 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:50:00,236 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:50:00,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:50:00,242 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:50:00,242 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:50:33,343 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:50:33,343 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:50:33,343 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:50:33,343 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:51:36,046 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:51:36,051 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:51:36,056 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:51:36,056 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:52:27,582 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:27,583 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:52:27,583 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:27,583 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:52:35,039 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:35,042 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:52:35,047 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:35,047 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:52:43,605 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:43,605 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:52:43,606 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:52:43,606 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:53:38,271 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:53:38,275 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:53:38,278 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:53:38,278 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:54:18,267 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:54:18,267 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:54:18,268 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:54:18,268 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:56:11,663 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:56:11,667 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:56:11,671 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:56:11,671 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:58:34,977 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:58:34,977 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:58:34,977 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:58:34,978 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:58:51,484 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:58:51,487 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:58:54,436 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:58:54,436 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:58:54,439 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:58:54,442 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 21:59:15,149 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 21:59:15,149 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 21:59:18,343 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:59:18,349 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 21:59:18,355 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 21:59:18,355 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 22:02:11,515 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:02:11,515 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 22:02:11,517 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:02:11,517 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 22:03:11,188 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:03:11,191 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 22:03:11,195 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:03:11,195 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources
+2016-08-16 22:04:02,825 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee
+2016-08-16 22:04:02,825 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-16 22:04:06,158 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:04:06,158 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\main\resources
+2016-08-16 22:04:06,164 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-16 22:04:06,169 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Servilla\Documents\GitHub\yahtzee\yahtzee\src\test\resources

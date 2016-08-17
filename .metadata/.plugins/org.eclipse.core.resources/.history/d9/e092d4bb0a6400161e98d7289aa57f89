@@ -1,0 +1,79 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.List;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+public class CategoryFactory {
+
+	public static Category createCategory(CategoryType type, List<DiceValue> roll) {
+		Category category = null;
+		switch(type) {
+		case ONES:
+			category = new CategorySingles(DiceValue.ONE);
+			category.setRoll(roll);
+			break;
+		case TWOS:
+			category = new CategorySingles(DiceValue.TWO);
+			category.setRoll(roll);
+			break;
+		case THREES:
+			category = new CategorySingles(DiceValue.THREE);
+			category.setRoll(roll);
+			break;
+		case FOURS:
+			category = new CategorySingles(DiceValue.FOUR);
+			category.setRoll(roll);
+			break;
+		case FIVES:
+			category = new CategorySingles(DiceValue.FIVE);
+			category.setRoll(roll);
+			break;
+		case SIXES:
+			category = new CategorySingles(DiceValue.SIX);
+			category.setRoll(roll);
+			break;
+		case PAIR:
+			category = new CategoryPair();
+			category.setRoll(roll);
+			break;
+		case TWO_PAIR:
+			category = new CategoryTwoPair();
+			category.setRoll(roll);
+			break;
+		case THREE_OF_A_KIND:
+			category = new CategoryThreeOfAKind();
+			category.setRoll(roll);
+			break;
+		case FOUR_OF_A_KIND:
+			category = new CategoryFourOfAKind();
+			category.setRoll(roll);
+			break;
+		case SMALL_STRAIGHT:
+			category = new CategorySmallStraight();
+			category.setRoll(roll);
+			break;
+		case LARGE_STRAIGHT:
+			category = new CategoryLargeStraight();
+			category.setRoll(roll);
+			break;
+		case FULL_HOUSE:
+			category = new CategoryFullHouse();
+			category.setRoll(roll);
+			break;
+		case YAHTZEE:
+			category = new CategoryYahtzee();
+			category.setRoll(roll);
+			break;
+		case CHANCE:
+			category = new CategoryChance();
+			category.setRoll(roll);
+			break;
+		default:
+			throw new IllegalArgumentException("Category Type not allowed");
+		}
+		
+		return category;
+	}
+}

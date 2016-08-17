@@ -1,0 +1,5 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+public abstract class Category {
+	public abstract int calculateScore();
+}

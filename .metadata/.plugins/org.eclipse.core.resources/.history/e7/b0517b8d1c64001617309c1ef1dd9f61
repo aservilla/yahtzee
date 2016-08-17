@@ -1,0 +1,24 @@
+package com.cardinalfuse.yahtzee;
+
+import java.util.List;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class YahtzeeGameTest extends TestCase {
+
+	@Test
+	public void testPopulate() {
+		String[] args = {"1", "2", "3", "6", "1", "3"};
+		List<DiceValue> roll = YahtzeeGame.populateRoll(args);
+		
+		assertEquals(DiceValue.TWO, roll.get(0));
+		assertEquals(DiceValue.THREE, roll.get(1));
+		assertEquals(DiceValue.SIX, roll.get(2));
+		assertEquals(DiceValue.ONE, roll.get(3));
+		assertEquals(DiceValue.THREE, roll.get(4));
+	}
+}

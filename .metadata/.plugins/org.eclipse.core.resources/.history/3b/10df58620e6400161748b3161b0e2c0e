@@ -1,0 +1,24 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Test;
+
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+import junit.framework.TestCase;
+
+public class CategorySinglesTest extends TestCase {
+
+	@Test
+	public void testScore() {
+		List<DiceValue> roll = new ArrayList<DiceValue>(5);
+		
+		CategorySingles category = new CategorySingles(DiceValue.ONE);
+		category.setRoll(roll);
+		
+		int actual = 1;
+		assertEquals(actual, category.calculateScore());
+	}
+}

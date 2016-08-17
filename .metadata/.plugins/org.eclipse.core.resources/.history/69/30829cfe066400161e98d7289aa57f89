@@ -1,0 +1,13 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.List;
+
+public class YahtzeeGame {
+
+	
+	public static int getScore(CategoryType type, List<DiceValue> roll) {
+		int score = 0;
+		
+		return score;
+	}
+}

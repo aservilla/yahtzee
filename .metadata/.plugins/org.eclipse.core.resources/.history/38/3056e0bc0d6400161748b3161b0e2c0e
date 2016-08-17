@@ -1,0 +1,5 @@
+package com.cardinalfuse.yahtzee.enums;
+
+public enum DiceValue {
+	ONE, TWO, THREE, FOUR, FIVE, SIX;
+}

@@ -1,0 +1,62 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+import java.util.List;
+
+import com.cardinalfuse.yahtzee.enums.CategoryType;
+import com.cardinalfuse.yahtzee.enums.DiceValue;
+
+public class CategoryFactory {
+
+	public static Category createCategory(CategoryType type, List<DiceValue> roll) {
+		Category category = null;
+		switch(type) {
+		case ONES:
+			category = new CategorySingles(DiceValue.ONE);
+			break;
+		case TWOS:
+			category = new CategorySingles(DiceValue.TWO);
+			break;
+		case THREES:
+			category = new CategorySingles(DiceValue.THREE);
+			break;
+		case FOURS:
+			category = new CategorySingles(DiceValue.FOUR);
+			break;
+		case FIVES:
+			category = new CategorySingles(DiceValue.FIVE);
+			break;
+		case SIXES:
+			category = new CategorySingles(DiceValue.SIX);
+			break;
+		case PAIR:
+			category = new CategoryPair();
+			break;
+		case TWO_PAIR:
+			category = new CategoryTwoPair();
+			break;
+		case THREE_OF_A_KIND:
+			category = new CategoryThreeOfAKind();
+			break;
+		case FOUR_OF_A_KIND:
+			category = new CategoryFourOfAKind();
+			break;
+		case SMALL_STRAIGHT:
+			category = new CategorySmallStraight();
+			break;
+		case LARGE_STRAIGHT:
+			category = new CategoryLargeStraight();
+			break;
+		case FULL_HOUSE:
+			category = new CategoryFullHouse();
+			break;
+		case YAHTZEE:
+			category = new CategoryYahtzee();
+			break;
+		case CHANCE:
+			category = new CategoryChance();
+			break;
+		}
+		
+		return category;
+	}
+}

@@ -1,0 +1,5 @@
+package com.cardinalfuse.yahtzee.dataobjects;
+
+public class CategoryChance implements Category {
+
+}
